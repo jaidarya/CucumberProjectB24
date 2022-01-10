@@ -1,4 +1,5 @@
 @calculator
+  @regression
 Feature: Calculator Tests
 
   Background:
